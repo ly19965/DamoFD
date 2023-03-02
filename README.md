@@ -7,7 +7,7 @@ Quickly Start on [EasyFace](https://github.com/ly19965/EasyFace/tree/master/face
 ## Performance
 
 Precision, flops are both evaluated on **VGA resolution**.
-![DamoFD性能](demo/DamoFD_ap.jpg
+![DamoFD性能](demo/DamoFD_ap.jpg)
 
 ## Installation
 
