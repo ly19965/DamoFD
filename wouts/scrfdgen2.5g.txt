@@ -1,0 +1,1 @@
+{"name": "scrfdgen2.5g_0", "backbone_flops": [0.157, 0.271, 0.339, 0.514, 0.247], "neck_flops": 0.206, "head_flops": 0.842, "all_flops": 2.5766838, "aps": []}

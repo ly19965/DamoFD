@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc.vscode/
+.idea/
+.vscode/
+__pycache__/
+upload_code_to_oss.sh
+download_code_from_oss.sh
