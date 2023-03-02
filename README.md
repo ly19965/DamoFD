@@ -115,4 +115,4 @@ As mentioned in paper,  we set α to 0.25 when searching DDSAR-500M models. Whil
 
 ## Acknowledgments
 
-We thank Insighface for the excellent [code base] (https://github.com/deepinsight/insightface/tree/master/detection/scrfd).
+We thank Insighface for the excellent [code base](https://github.com/deepinsight/insightface/tree/master/detection/scrfd).
