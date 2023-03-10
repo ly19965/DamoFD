@@ -62,7 +62,7 @@ Keypoints can be ignored if there is bbox annotation only.
 
 Example training command, with 4 GPUs:
 ```
-CUDA_VISIBLE_DEVICES="0,1,2,3" PORT=29701 bash ./tools/dist_train.sh ./configs/scrfd/scrfd_1g.py 4
+CUDA_VISIBLE_DEVICES="0,1,2,3" PORT=29701 bash ./tools/dist_train.sh ./configs/DamoFD/DamoFD_0.5g.py 4
 ```
 
 ## WIDERFace Evaluation
